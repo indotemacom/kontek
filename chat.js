@@ -598,7 +598,7 @@ function onStateChanged(user) {
         });
     }
     else {
-        document.getElementById('imgProfile').src = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtoH8dQzxp3naLCb_6izo_bxep8HwzsU5Tr6jH22ULO3tTbFy6zihypOjjUZyMmNh8uB0Zs2nuAId8k4bltZFjyBYEz5eg5gn-dbSDf-sZ7R5In56WgFkSKT_yr8on59b2c0oMtF60hMFsy6d-_qjX5GnQbQ1W5Mch8Fkg5pRTcmwnkUNhNHECwDBJ/s16000/icon%20user.png';
+        document.getElementById('imgProfile').src = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfWrgPneOvGlVWHvTVt2jTXR7h9sdR0a7ynITgHDoHKWdA7LVEIer0Ie2GSZxpusFH1sxBhodO8EfyG7lu9-qSQwYzclNz2Vi7zLPtFXWBhVfSbKmmmxBG5-LFlksynLb9hLfYMyy5TLjd6qtQWbPnUh9iPIScleYDCFVxpc1UAv0WH56Pfi_cos6G/s16000/icon%20kontek.png';
         document.getElementById('imgProfile').title = '';
 
         document.getElementById('lnkSignIn').style = '';
