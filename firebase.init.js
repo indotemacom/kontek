@@ -1,7 +1,7 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
 apiKey: "AIzaSyD49bULz6iShpi8veVEXtfBpR-ufJx0DC8",
-    authDomain: "kontek-da223.firebaseapp.com",
+    authDomain: "kontek.indotema.com",
     databaseURL: "https://kontek-da223-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "kontek-da223",
     storageBucket: "kontek-da223.appspot.com",
