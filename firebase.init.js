@@ -1,13 +1,13 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
- apiKey: "AIzaSyDbAjZgyargpqT-f63ggGw7EmSHXe8WYCM",
-  authDomain: "logindotema.firebaseapp.com",
-  databaseURL: "https://logindotema-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "logindotema",
-  storageBucket: "logindotema.appspot.com",
-  messagingSenderId: "18917504816",
-  appId: "1:18917504816:web:fc830e09e3f1f6decf7af5",
-  measurementId: "G-DXHT3Z8HEL"
+  apiKey : "AIzaSyB8-kD50aGCBgHb0W9UU4GNMePQnNT_t48" , 
+    authDomain : "kontekindotema.firebaseapp.com" , 
+    databaseURL : "https://kontekindotema-default-rtdb.asia-southeast1.firebasedatabase.app" , 
+    projectId : "kontekindotema" , 
+    storageBucket : "kontekindotema.appspot.com" , 
+    messagingSenderId : "1042512431058" , 
+    appId : "1:1042512431058:web:6dbf23d000adcd7f33ea0b" , 
+    pengukuranId : "G-Y4VL9X730V" 
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
