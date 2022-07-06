@@ -1,4 +1,6 @@
-var currentUserKey = '';
+<script type='text/javascript'>
+//<![CDATA[
+  var currentUserKey = '';
 var chatKey = '';
 var friend_id = '';
 
@@ -232,7 +234,7 @@ function SendMessage() {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
-                        'Authorization': 'key=AIzaSyB8-kD50aGCBgHb0W9UU4GNMePQnNT_t48'
+                        'Authorization': 'key=AIzaSyBXkd3HN8IO3Xa4AFTvqFpo5LXZQ9-Rj7s'
                     },
                     data: JSON.stringify({
                         'to': data.val().token_id, 'data': { 'message': chatMessage.msg.substring(0, 30) + '...', 'icon': firebase.auth().currentUser.photoURL }
@@ -625,3 +627,5 @@ function callback(error) {
 // Call auth State changed
 
 onFirebaseStateChanged();
+//]]>
+</script>
