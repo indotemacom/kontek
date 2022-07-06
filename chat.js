@@ -1,5 +1,4 @@
-<script type='text/javascript'>
-//<![CDATA[
+
   var currentUserKey = '';
 var chatKey = '';
 var friend_id = '';
@@ -627,5 +626,4 @@ function callback(error) {
 // Call auth State changed
 
 onFirebaseStateChanged();
-//]]>
-</script>
+
